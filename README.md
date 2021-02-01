@@ -3,7 +3,7 @@
 - Golang
 - MySQL
 - C/C++
-- Java/Python(会用即可
+- Java/Python(会用即可)
 
 ### Readings
 读一些书,做到如下
